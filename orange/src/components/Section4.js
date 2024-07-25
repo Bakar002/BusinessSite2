@@ -8,11 +8,11 @@ function Section4() {
       <div className="absolute inset-0 bg-black opacity-80"></div>
 
       {/* Content */}
-      <div className="relative z-10">
+      <div className="relative z-10 max-w-screen-lg mx-auto">
         <h2 className="text-white text-3xl md:text-[46px] font-semibold font-clash mb-5">
           Get Groovin' Today
         </h2>
-        <p className="w-full max-xl:w-[100%] text-center text-white text-lg md:text-3xl sm:text-xl font-normal font-clash mx-auto md:mx-[199px] mb-14">
+        <p className="w-full text-center text-white text-lg md:text-3xl sm:text-xl font-normal font-clash mx-auto mb-14 px-4">
           Ready to rock the digital world? Fill out the form to schedule your free
           consultation and let's get started on your next big idea!
         </p>
